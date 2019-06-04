@@ -4,3 +4,4 @@ static-cdn.jtvnw.net
 ntp-g7g.amazon.com
 spectrum.s3.amazonaws.com
 d3p8zr0ffa9t17.cloudfront.net
+ransomwaretracker.abuse.ch
