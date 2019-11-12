@@ -5,3 +5,4 @@ ntp-g7g.amazon.com
 spectrum.s3.amazonaws.com
 d3p8zr0ffa9t17.cloudfront.net
 ransomwaretracker.abuse.ch
+https://qualigo.com/doks/charge_query.php?ds=30823&subds=qualigo_com&pid=32417029&keyword=&pos=1&q=e8adad5c1d0eeb4d1363b7a12767eff6&t=20191112072135&prnt_ref=https%3A%2F%2Fwww.anime-loads.org%2F&deep_ref=
